@@ -83,7 +83,7 @@ Random samples from the test set are visualized with their actual and predicted 
 ### Sample Output Visualization:
 #### Actual Label: 🐸 Frog  
 #### Predicted Label: 🐸 Frog  
-
+![Image](https://github.com/user-attachments/assets/92d74173-4893-40cb-b862-e5e632461fc6)
 ---
 
 ## **📈 Future Enhancements**
