@@ -2,7 +2,7 @@
 
 # 🌟 Image Recognition with CIFAR-10 Dataset 🌟
 
-![CIFAR-10](![image]("C:\Users\Keval\Downloads\3otvb2z646ytpt1hl2rv.jpg")
+![CIFAR-10](![image](https://github.com/Keval10github/Image-Recognition/blob/main/3otvb2z646ytpt1hl2rv.jpg?raw=true)
 )
 
 ---
