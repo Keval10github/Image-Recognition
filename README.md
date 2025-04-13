@@ -2,7 +2,7 @@
 
 # 🌟 Image Recognition with CIFAR-10 Dataset 🌟
 
-(![CIFAR-10])
+## ** ![CIFAR-10] **
 
 ![Image](https://github.com/user-attachments/assets/15f7a7e9-e270-42c3-8759-8b72186cd557)
 ---
