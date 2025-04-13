@@ -4,7 +4,7 @@
 
 ![CIFAR-10](![image](https://github.com/Keval10github/Image-Recognition/blob/main/3otvb2z646ytpt1hl2rv.jpg?raw=true)
 )
-
+![Image](https://github.com/user-attachments/assets/15f7a7e9-e270-42c3-8759-8b72186cd557)
 ---
 
 ## **📜 Overview**
