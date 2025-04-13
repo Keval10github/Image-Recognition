@@ -2,7 +2,8 @@
 
 # 🌟 Image Recognition with CIFAR-10 Dataset 🌟
 
-![CIFAR-10](https://miro.medium.com/max/1400/1*8uJ2UeY3D9E4Gv9kLq1xUQ.png)
+![CIFAR-10](![image](https://github.com/user-attachments/assets/ce45b5dd-5af1-457c-a218-ac245e5dff4e)
+)
 
 ---
 
