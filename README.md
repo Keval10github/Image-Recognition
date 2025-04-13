@@ -83,7 +83,6 @@ Random samples from the test set are visualized with their actual and predicted 
 ### Sample Output Visualization:
 #### Actual Label: 🐸 Frog  
 #### Predicted Label: 🐸 Frog  
-![Sample Prediction](https://miro.medium.com/max/1400/1*8uJ2UeY3D9E4Gv9kLq1xUQ.png)
 
 ---
 
@@ -96,7 +95,7 @@ Random samples from the test set are visualized with their actual and predicted 
 
 ## **👨‍💻 Author**
 **Keval Ravani**  
-💌 Email: kevalravani@example.com  
+💌 Email: kevalravani06@gmail.com  
 📅 Date: April 13, 2025  
 
 ---
